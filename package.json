@@ -1,0 +1,9 @@
+{
+  "name": "react-scripts-wastaken",
+  "version": "1.0.0",
+  "description": "This package includes the global command for create-react-component-wastaken",
+  "main": "index.js",
+  "repository": "https://github.com/yahwastaken/react-scripts-wastaken.git",
+  "author": "Nicolas Barray <nbarray@gmail.com>",
+  "license": "MIT"
+}
