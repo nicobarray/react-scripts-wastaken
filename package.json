@@ -1,9 +1,14 @@
 {
   "name": "react-scripts-wastaken",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "This package includes the global command for create-react-component-wastaken",
   "main": "index.js",
   "repository": "https://github.com/yahwastaken/react-scripts-wastaken.git",
   "author": "Nicolas Barray <nbarray@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mri": "1.1.1",
+    "ora": "2.1.0",
+    "pshell": "1.1.0"
+  }
 }
